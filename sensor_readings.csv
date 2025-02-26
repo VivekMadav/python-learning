@@ -1,0 +1,4 @@
+timestamp,sensor_id,temperature (C),humidity (%),predicted_strength (MPq
+2025-02-26 10:00,S-101,22.5,45.0,26.0
+2025-02-26 11:00,S-101,23.0,44.5,27.2
+2025-02-26 12:00,S-101,23.2,44.3,28.1

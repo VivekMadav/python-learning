@@ -1,0 +1,23 @@
+[
+    {
+        "timestamp":"2025-02-26 10:00",
+        "sensor_id":"S-101",
+        "temperature (C)":22.5,
+        "humidity (%)":45.0,
+        "predicted_strength (MPq":26.0
+    },
+    {
+        "timestamp":"2025-02-26 11:00",
+        "sensor_id":"S-101",
+        "temperature (C)":23.0,
+        "humidity (%)":44.5,
+        "predicted_strength (MPq":27.2
+    },
+    {
+        "timestamp":"2025-02-26 12:00",
+        "sensor_id":"S-101",
+        "temperature (C)":23.2,
+        "humidity (%)":44.3,
+        "predicted_strength (MPq":28.1
+    }
+]
